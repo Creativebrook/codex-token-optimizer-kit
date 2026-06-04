@@ -1,0 +1,12 @@
+# =========================================================
+# Token economy defaults
+# =========================================================
+
+project_doc_max_bytes = 16000
+model_verbosity = "low"
+model_reasoning_effort = "low"
+model_reasoning_summary = "none"
+
+[history]
+persistence = "save-all"
+max_bytes = 5000000

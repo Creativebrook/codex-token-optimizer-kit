@@ -1,0 +1,7 @@
+# Deep profile
+# For debugging, automations, MCPs, WordPress, publishing, config, and sensitive operations.
+
+model_reasoning_effort = "high"
+model_verbosity = "medium"
+model_reasoning_summary = "concise"
+project_doc_max_bytes = 24000

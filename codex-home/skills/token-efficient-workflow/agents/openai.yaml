@@ -1,0 +1,3 @@
+display_name: Token-Efficient Workflow
+short_description: Reduce token waste by searching narrowly, avoiding noisy files, limiting logs, and keeping outputs concise.
+default_prompt: Use token-efficient-workflow to complete this task with minimal context, targeted file reads, short logs, and a concise final response.

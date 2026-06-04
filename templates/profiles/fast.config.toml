@@ -1,0 +1,7 @@
+# Fast profile
+# For small edits, short answers, quick searches, and low-risk work.
+
+model_reasoning_effort = "minimal"
+model_verbosity = "low"
+model_reasoning_summary = "none"
+project_doc_max_bytes = 8000

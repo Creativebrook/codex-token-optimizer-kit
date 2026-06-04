@@ -1,0 +1,7 @@
+# Standard profile
+# For normal project work, marketing content, documentation, and moderate validation.
+
+model_reasoning_effort = "low"
+model_verbosity = "low"
+model_reasoning_summary = "none"
+project_doc_max_bytes = 16000
