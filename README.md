@@ -222,3 +222,8 @@ codex-token-optimizer-kit
 ```text
 A practical OpenAI Codex Desktop/CLI toolkit with helper scripts, skills, templates, and workflow rules to reduce token usage, avoid noisy context, and keep local AI coding/marketing projects efficient.
 ```
+
+
+## Instalação rápida
+
+Consulte docs/INSTALLATION.md para os caminhos e comandos detalhados. Reveja e adapte as instruções e templates antes de os copiar para a configuração global do Codex ou para os seus projetos.
